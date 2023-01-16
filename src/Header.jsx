@@ -17,7 +17,6 @@ return (
 			component="div" sx={{ flexGrow: 1, backgroundColor: ''}}>
 			Feedback Portal
 		</Typography>
-		{/* <Button color="inherit">Login</Button> */}
 		</Toolbar>
 	</AppBar>
 );
